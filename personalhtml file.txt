@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>sai vamshi</title>
+</head>
+<body>
+
+  <header>
+    <h1 >sai vamshi goud  </h1>
+    <p>Web Developer</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      Welcome to my world...! I am a passionate web developer with expertise in HTML, CSS, and JavaScript.
+      I am eager to work in a frontened work i am very happy to be a web developer....
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>JavaScript</li>
+      <li>Responsive Web Design</li>
+      <li>Version Control (Git)</li>
+    </ul>
+  </section>
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Project 1</h3>
+      <p>hospital management,blog website
+      .</p> </div>
+       <br> <br>
+    <div class="project">
+      <h3>Project2</h3>
+      <p>personal website</p>
+       <br> <br> <br>
+    </div>
+  </section><break>
+    <break>
+      
+    </break>
+  </break>
+   <br> <br> <br>
+  <footer>
+   
+    <p>Contact me at: arkhathalasaivamshigoud@gmail.com</p>
+  </footer>
+
+ 
+</body>
+</html>
